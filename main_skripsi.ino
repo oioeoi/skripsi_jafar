@@ -1,4 +1,3 @@
-
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 #define WATER_LEVEL_PIN 15
